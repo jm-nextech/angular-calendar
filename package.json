@@ -130,13 +130,7 @@
     "@angular/core": "^4.0.0",
     "@angular/platform-browser": "^4.0.0",
     "typescript": "^2.3.0"
-  },
-  "files": [
-    "dist",
-    "scss",
-    "karma.conf.ts",
-    "tsconfig.json"
-  ],
+  },  
   "config": {
     "commitizen": {
       "path": "node_modules/cz-conventional-changelog"
