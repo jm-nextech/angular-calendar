@@ -133,7 +133,9 @@
   },
   "files": [
     "dist",
-    "scss"
+    "scss",
+    "karma.conf.ts",
+    "tsconfig.json"
   ],
   "config": {
     "commitizen": {
